@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/landing-page-dua/static/css/main.1134a61a.css",
+    "main.js": "/landing-page-dua/static/js/main.29997b0f.js",
+    "static/js/787.e781dacd.chunk.js": "/landing-page-dua/static/js/787.e781dacd.chunk.js",
+    "static/media/bg.png": "/landing-page-dua/static/media/bg.4db29a0e22369cef2aa4.png",
+    "static/media/hero.png": "/landing-page-dua/static/media/hero.1b555455644a12d68712.png",
+    "static/media/awan.png": "/landing-page-dua/static/media/awan.b8cf2e6afa3d673cec87.png",
+    "static/media/shadow.png": "/landing-page-dua/static/media/shadow.8c12f85552735aed8fd1.png",
+    "index.html": "/landing-page-dua/index.html",
+    "main.1134a61a.css.map": "/landing-page-dua/static/css/main.1134a61a.css.map",
+    "main.29997b0f.js.map": "/landing-page-dua/static/js/main.29997b0f.js.map",
+    "787.e781dacd.chunk.js.map": "/landing-page-dua/static/js/787.e781dacd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1134a61a.css",
+    "static/js/main.29997b0f.js"
+  ]
+}
