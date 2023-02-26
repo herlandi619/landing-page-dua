@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/landing-page-dua/static/css/main.debd06e0.css",
-    "main.js": "/landing-page-dua/static/js/main.b9d85113.js",
+    "main.css": "/landing-page-dua/static/css/main.0d244376.css",
+    "main.js": "/landing-page-dua/static/js/main.e9ed4a86.js",
     "static/js/787.e781dacd.chunk.js": "/landing-page-dua/static/js/787.e781dacd.chunk.js",
     "static/media/bg.png": "/landing-page-dua/static/media/bg.4db29a0e22369cef2aa4.png",
     "static/media/hero.png": "/landing-page-dua/static/media/hero.1b555455644a12d68712.png",
     "static/media/awan.png": "/landing-page-dua/static/media/awan.b8cf2e6afa3d673cec87.png",
     "static/media/shadow.png": "/landing-page-dua/static/media/shadow.8c12f85552735aed8fd1.png",
     "index.html": "/landing-page-dua/index.html",
-    "main.debd06e0.css.map": "/landing-page-dua/static/css/main.debd06e0.css.map",
-    "main.b9d85113.js.map": "/landing-page-dua/static/js/main.b9d85113.js.map",
+    "main.0d244376.css.map": "/landing-page-dua/static/css/main.0d244376.css.map",
+    "main.e9ed4a86.js.map": "/landing-page-dua/static/js/main.e9ed4a86.js.map",
     "787.e781dacd.chunk.js.map": "/landing-page-dua/static/js/787.e781dacd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.debd06e0.css",
-    "static/js/main.b9d85113.js"
+    "static/css/main.0d244376.css",
+    "static/js/main.e9ed4a86.js"
   ]
 }
